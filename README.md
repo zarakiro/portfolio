@@ -1,6 +1,6 @@
 # Next.js, React & TailwindCSS Portfolio Project
 
-![image](https://github.com/user-attachments/assets/cc4db841-955d-4194-b656-2a37c1e27a4b)
+![image](https://github.com/user-attachments/assets/cfb55d0d-336d-4846-8724-45499b1fbe9b)
 
 
 ## Demo URL
