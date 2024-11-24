@@ -47,7 +47,7 @@ git clone https://github.com/zarakiro/portfolio
 3. Open the project folder:
 
 ```
-cd nextjs-tailwindcss-portfolio
+cd .\portfolio\
 ```
 
 4. Install packages and dependencies:
