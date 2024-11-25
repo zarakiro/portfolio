@@ -153,7 +153,7 @@ export const projectsData = [
 			{
 				id: uuidv4(),
 				title: 'Foildable 1',
-				img: '/images/foil.png',
+				img: '/images/foil2.jpeg',
 			},
 			{
 				id: uuidv4(),
@@ -163,19 +163,20 @@ export const projectsData = [
 			{
 				id: uuidv4(),
 				title: 'Foildable 3',
-				img: '/images/foil.png',
+				img: '/images/surffoil3.jpg',
 			},
 		],
 		ProjectInfo: {
 			ObjectivesHeading: 'Objective',
 			ObjectivesDetails:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+				'Create a foildable foil for safety and convenience',
 			Technologies: [
 				{
 					title: 'Tools & Competences',
 					techs: [
 						'Research',
 						'Mecanics',
+						'Innovation',
 					],
 				},
 			],
@@ -184,19 +185,19 @@ export const projectsData = [
 			ProjectDetails: [
 				{
 					id: uuidv4(),
-					details:'A completer'
+					details:"Foildable is an innovative project aimed at reimagining the surf foil by making it foldable. This design enhances user safety by reducing the risk of breakage during use, while also addressing the practical need for easier storage and transportation. Our solution focuses on creating a versatile component that can be adapted to all types of foils, making this technology accessible to a wider range of users."
 				},
 				{
 					id: uuidv4(),
-					details:'A completer'
+					details:"The core of Foildable lies in its foldable mechanism, which ensures durability and functionality without compromising performance. By engineering a robust and adaptable part, we aim to integrate our solution seamlessly with existing foil designs. The project involves extensive prototyping and testing to optimize strength, weight, and ease of use, ensuring it meets the needs of both casual and professional users."
 				},
 				{
 					id: uuidv4(),
-					details:'A completer'
+					details:"As part of a two-person team, I have worked extensively on the design, prototyping, and testing phases of Foildable. My focus has been on the mechanical engineering aspects, using advanced tools to model and fabricate the folding mechanism. Additionally, I contributed to the research and development process, analyzing various materials and structural designs to ensure the component’s reliability and compatibility with different foil models."
 				},
 				{
 					id: uuidv4(),
-					details:'A completer'
+					details:"Foildable represents a step forward in making surf foils safer and more practical for users. While still in the prototype stage, our project has garnered interest from enthusiasts and professionals alike. The next steps involve refining the design, conducting extensive real-world testing, and exploring partnerships with manufacturers to bring this innovative solution to market."
 				},
 			],
 		},
